@@ -42,6 +42,7 @@ for developing flight-software systems.
 | Project                                                                   | Main Developer                       | Impl. Language         | License         | 
 | ------------------------------------------------------------------------- | -------------------------------------|  --------------------- | ----------------|
 | [SUCHAI-Flight-Software](https://gitlab.com/spel-uchile/flight-software/suchai-flight-software-v2) | University of Chile | C              | Apache 2.0      |
+| [Cononut Flight Software](https://github.com/ASU-SDSL/coconut-fsw) | Arizona State University | C              | MIT      |
 
 
 
@@ -78,6 +79,7 @@ A list of open-source operating systems commonly used to host flight-software.
 | [RODOS](https://gitlab.com/rodos/rodos)                    | Distributed real-time operating system                           | Yes                                    | GPLv3                                    | C++                     |
 | [Linux](https://github.com/torvalds/linux)                 | General-purpose operating system                                 | Not by default (with PREEMPT_RT patch) | GPLv2                                    | C                       |
 | [Zephyr](https://github.com/zephyrproject-rtos/zephyr)     | Real-time operating system for embedded and IoT                  | Yes                                    | Apache-2.0                               | C                       |
+| [RACCOON OS](https://gitlab.com/rccn/raccoon-os)     | RACCOON OS is a distribution of Linux based on the Yocto Project intended for space applications                  | No                                    | GNU General Public License v3.0 or later                               | BitBake                       |
 
 
 
